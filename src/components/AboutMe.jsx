@@ -8,8 +8,8 @@ const AboutMe = () => {
       </section>
       <section className='about-me-container'>
         <div className='about-me-content'></div>
-        <img className= 'profilepic' src='./images/IMG_9639.jpeg' alt="Profile" />
-        <p>Hello there! I’m Brandon Avila, a Software Developer with a knack for turning intricate ideas into elegant solutions. My journey began in the realm of Mechanical Engineering, where I honed my problem-solving skills and attention to detail. Over time, my passion for technology led me to pivot into the dynamic world of software development.</p>
+        <img className= 'profilepic' src='../images/IMG_9639.jpg' alt="Profile" />
+        <p>I was born in Nuevo Leon, Mexico. I move to th United States at 5 years old, and i graduated from Cy-Fair High School. Im a veteran, served 4 years in the Army, i was station in Virgnia. Ive been overseas while in service ti Japan as a Watercraft Engineer. I have always loved being on computers not only gaming but working on mods with my friends, and building computers.</p>
       </section>
     </section>
   );

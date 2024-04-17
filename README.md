@@ -1,13 +1,13 @@
 # Brandon Avila's Portfolio
 
-This is the portfolio website of Bernardo Alonso, showcasing his projects and contact information.
+This is the portfolio website of Brandon Avila, showcasing his projects and contact information.
 
 ## Features
 
 - **Home**: Landing page with a brief introduction and links to projects.
-- **About Me**: Information about Bernardo Alonso.
-- **Portfolio**: Display of Bernardo's projects with links to deployed apps and GitHub repositories.
-- **Contact**: Contact form to get in touch with Bernardo.
+- **About Me**: Information about Brandon Avila.
+- **Portfolio**: Display of Brandon's projects with links to deployed apps and GitHub repositories.
+- **Contact**: Contact form to get in touch with Brandon.
 
 ## Technologies Used
 

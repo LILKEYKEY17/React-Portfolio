@@ -23,54 +23,12 @@ const Portfolio = () => {
         </div>
         <div className="project">
           <div className="project-content">
-            <img src="./images/project2.png" alt="Project 2" className="project-image" />
+            <img src="./images/Screenshot (281).png" alt="Project 2" className="project-image" />
             <div className="project-overlay">
-              <a href="https://sarafuller2018.github.io/PureMomentum-Workout-Site/">
-                <h3>Pure Momentum</h3>
+              <a href="https://efren96.github.io/movies-to-watch-app/">
+                <h3>MovieGo+</h3>
               </a>
-              <a href="https://github.com/sarafuller2018/PureMomentum-Workout-Site" target="_blank" rel="noopener noreferrer">
-              <FontAwesomeIcon icon={faGithub} />
-              
-            </a>
-            </div>
-          </div>
-        </div>
-        <div className="project">
-          <div className="project-content">
-            <img src="./images/project4.png" alt="Project 4" className="project-image" />
-            <div className="project-overlay">
-              <a href="https://oneuglyghost.github.io/Weather-Updates/">
-                <h3>Weather Updates</h3>
-              </a>
-              <a href="https://github.com/oneuglyghost/Weather-Updates?tab=readme-ov-file" target="_blank" rel="noopener noreferrer">
-              <FontAwesomeIcon icon={faGithub} />
-              
-            </a>
-            </div>
-          </div>
-        </div>
-        <div className="project">
-          <div className="project-content">
-            <img src="./images/project5.png" alt="Project 5" className="project-image" />
-            <div className="project-overlay">
-              <a href="https://oneuglyghost.github.io/Homework-Password-Generator/">
-                <h3>Password Generator</h3>
-              </a>
-              <a href="https://github.com/oneuglyghost/Homework-Password-Generator?tab=readme-ov-file" target="_blank" rel="noopener noreferrer">
-              <FontAwesomeIcon icon={faGithub} />
-              
-            </a>
-            </div>
-          </div>
-        </div>
-        <div className="project">
-          <div className="project-content">
-            <img src="./images/project6.png" alt="Project 6" className="project-image" />
-            <div className="project-overlay">
-              <a href="https://oneuglyghost.github.io/module-4-code-quiz/">
-                <h3>Quiz Challenge</h3>
-              </a>
-              <a href="https://github.com/oneuglyghost/module-4-code-quiz" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/Efren96/movies-to-watch-app.git" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faGithub} />
               
             </a>

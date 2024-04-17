@@ -2,7 +2,6 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope} from '@fortawesome/free-solid-svg-icons';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
-import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import '../styles/Footer.css';
 
 const Footer = () => {
@@ -18,12 +17,6 @@ const Footer = () => {
           <li>
             <a href="https://github.com/LILKEYKEY17" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faGithub} />
-              
-            </a>
-          </li>
-          <li>
-            <a href="https://www.linkedin.com/in/bernardo-alonso-6b88b52ba/" target="_blank" rel="noopener noreferrer">
-              <FontAwesomeIcon icon={faLinkedin} />
               
             </a>
           </li>
